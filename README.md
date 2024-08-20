@@ -28,7 +28,7 @@ Reading list
 - sustainability
   
 **I am looking for:**
-  - internships
+  - internships/research positions
   - full time positions following graduation
     
 **Connect with me:**
