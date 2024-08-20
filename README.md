@@ -4,11 +4,13 @@ I am a Masters of Data Science candidate at the University of Virginia. I am als
 
 **🔭 I am currently working on:**
 
-Descrition of current projects
+Mastering SQL!
 
 **Projects I completed during my masters:**
 
-Project descriptions
+[Socioeconomic Effects on Health and Insurance Statuses](https://docs.google.com/presentation/d/1XzAavpZ8Mt6l6qe3ZlyuJdTKJmhAB6LyjL1LmhnOWVU/edit?usp=sharing)
+- collaborators: Kayla Lee, Devon Hathaway, Farah Turkistani
+- Repo: 
 
 **Projects I completed during my undergraduate:**
 
