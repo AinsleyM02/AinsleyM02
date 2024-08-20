@@ -12,7 +12,7 @@ Mastering SQL!
     - Collaborators: Kayla Lee, Devon Hathaway, Farah Turkistani, Christine George
     - Repo: [Linear Models Final](https://github.com/fturkistani/linearmodelsfinal)
 
-**Projects I completed during my undergraduate:**
+**Projects I completed during my undergraduate studies:**
 
 [A Look at Homeschooling in the U.S. from 2016 to 2019](https://public.tableau.com/app/profile/ainsley.mclaughlin/viz/ALookatHomeschoolingintheU_S___2016vs2019/Proj)
 
