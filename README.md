@@ -6,7 +6,7 @@ I am a Masters of Data Science candidate at the University of Virginia. I am als
 
 Mastering SQL!
 
-**Projects I completed during my masters:**
+**Projects I have completed so far during my masters:**
 
 - [A Look at History: Socioeconomic Effects on Health and Insurance Statuses](https://docs.google.com/presentation/d/1XzAavpZ8Mt6l6qe3ZlyuJdTKJmhAB6LyjL1LmhnOWVU/edit?usp=sharing)
     - Collaborators: Kayla Lee, Devon Hathaway, Farah Turkistani, Christine George
