@@ -1,4 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Ainsley McLaughlin 👋
+
+I am a Masters of Data Science candidate at the University of Virginia. I am also a recent graduate of the University of South Carolina with a B.S. in mathematics and minors in data science and education. 
+
+**🔭 I am currently working on:**
+Descrition of current projects
+
+**Projects I completed during my masters:**
+Project descriptions
+
+**Projects I completed during my undergraduate:**
+[A Look at Homeschooling in the U.S. from 2016 to 2019](https://public.tableau.com/app/profile/ainsley.mclaughlin/viz/ALookatHomeschoolingintheU_S___2016vs2019/Proj)
+
+**🌱 I’m currently learning:**
+Reading list
+- [Surfing the Data Pipeline with Python by Jonathan Kropko](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
+- [Programming for Data Science by Rafael Alvarado](https://ontoligent.github.io/DS5100-book/)
+  
+**I am interested in applying data science to:**
+- education
+- energy
+- sustainability
+  
+**I am looking for:**
+  - internships
+  - full time positions following graduation
+    
+**connect with me:**
+[Linkedin](https://www.linkedin.com/in/ainsley-mclaughlin/)
+Email: aamclaughlin02@gmail.com
+
 
 <!--
 **AinsleyM02/AinsleyM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
