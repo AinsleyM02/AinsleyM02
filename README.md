@@ -3,15 +3,19 @@
 I am a Masters of Data Science candidate at the University of Virginia. I am also a recent graduate of the University of South Carolina with a B.S. in mathematics and minors in data science and education. 
 
 **🔭 I am currently working on:**
+
 Descrition of current projects
 
 **Projects I completed during my masters:**
+
 Project descriptions
 
 **Projects I completed during my undergraduate:**
+
 [A Look at Homeschooling in the U.S. from 2016 to 2019](https://public.tableau.com/app/profile/ainsley.mclaughlin/viz/ALookatHomeschoolingintheU_S___2016vs2019/Proj)
 
 **🌱 I’m currently learning:**
+
 Reading list
 - [Surfing the Data Pipeline with Python by Jonathan Kropko](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
 - [Programming for Data Science by Rafael Alvarado](https://ontoligent.github.io/DS5100-book/)
@@ -25,8 +29,10 @@ Reading list
   - internships
   - full time positions following graduation
     
-**connect with me:**
+**Connect with me:**
+
 [Linkedin](https://www.linkedin.com/in/ainsley-mclaughlin/)
+
 Email: aamclaughlin02@gmail.com
 
 
