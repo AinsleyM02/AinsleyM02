@@ -8,7 +8,7 @@ Mastering SQL!
 
 **Projects I completed during my masters:**
 
-[Socioeconomic Effects on Health and Insurance Statuses](https://docs.google.com/presentation/d/1XzAavpZ8Mt6l6qe3ZlyuJdTKJmhAB6LyjL1LmhnOWVU/edit?usp=sharing)
+1.[A Look at History: Socioeconomic Effects on Health and Insurance Statuses](https://docs.google.com/presentation/d/1XzAavpZ8Mt6l6qe3ZlyuJdTKJmhAB6LyjL1LmhnOWVU/edit?usp=sharing)
 - Collaborators: Kayla Lee, Devon Hathaway, Farah Turkistani, Christine George
 - Repo: [Linear Models Final](https://github.com/fturkistani/linearmodelsfinal)
 
