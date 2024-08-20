@@ -1,6 +1,6 @@
 ## Hi there, I'm Ainsley McLaughlin 👋
 
-I am a Masters of Data Science candidate at the University of Virginia. I am also a recent graduate of the University of South Carolina with a B.S. in mathematics and minors in data science and education. 
+I am a Masters of Data Science student at the University of Virginia. I am also a recent graduate of the University of South Carolina with a B.S. in mathematics and minors in data science and education. 
 
 **🔭 I am currently working on:**
 
