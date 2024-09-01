@@ -35,7 +35,7 @@ Reading list
 
 [Linkedin](https://www.linkedin.com/in/ainsley-mclaughlin/)
 
-Email: aamclaughlin02@gmail.com
+Email: vrf4gm@virginia.edu
 
 
 <!--
