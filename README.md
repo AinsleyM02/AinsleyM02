@@ -4,7 +4,7 @@ I am a Masters of Data Science student at the University of Virginia. I am also 
 
 **🔭 I am currently working on:**
 
-Mastering SQL!
+Mastering SQL with Linkedin Learning!
 
 **Projects I have completed so far during my masters:**
 
@@ -23,7 +23,7 @@ Reading list
 - [Programming for Data Science by Rafael Alvarado](https://ontoligent.github.io/DS5100-book/)
 - [An Introduction to Statistical Learning with applications in R](https://www.statlearning.com/) 
   
-**I am interested in applying data science to:**
+**Although I am exploring many options, I am especially interested in applying data science to:**
 - education
 - energy
 - sustainability
