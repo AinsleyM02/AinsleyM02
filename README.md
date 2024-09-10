@@ -21,6 +21,7 @@ Mastering SQL!
 Reading list
 - [Surfing the Data Pipeline with Python by Jonathan Kropko](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
 - [Programming for Data Science by Rafael Alvarado](https://ontoligent.github.io/DS5100-book/)
+- [An Introduction to Statistical Learning with applications in R](https://www.statlearning.com/) 
   
 **I am interested in applying data science to:**
 - education
