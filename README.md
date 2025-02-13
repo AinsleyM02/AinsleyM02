@@ -4,7 +4,7 @@ I am a Masters of Data Science student at the University of Virginia. I am also 
 
 **🔭 I am currently working on:**
 
-Mastering SQL with Linkedin Learning!
+Mastering SQL with Data Camp!
 
 **Projects I have completed so far during my masters:**
 
